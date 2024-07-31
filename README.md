@@ -1,8 +1,8 @@
-# Halo semua! 
+# Hi! 
 
-Perkenalkan nama saya **Muhammad Ishak Jaelani**.\
-Saya seorang **Mahasiswa IT** di Universitas Halu Oleo.\
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-ishak-jaelani-a67794247/)ku ya.
+My name is **Muhammad Ishak Jaelani**.\
+I am a bachelor of **Engineering in Informatics Engineering**.\
+If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/muhammad-ishak-jaelani-a67794247/).
 
 <p align="left">
 <a href="https://github.com/gilangadhan">
